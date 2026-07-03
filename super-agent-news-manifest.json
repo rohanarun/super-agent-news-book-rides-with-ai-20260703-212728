@@ -1,0 +1,60 @@
+{
+  "citations": [
+    "[openai.com](https://news.google.com/rss/articles/CBMiREFVX3lxTE1xbEwxSHdnWW1UbGIwTkV2dEVjbm04UjU2TzEyVEpTdnZZX3VVaUFUVnFybjNsb1QwS0g2Y2x5NTB2Umc3?oc=5)",
+    "[consumerreports.org](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnBDTUJlaU41UTBxTFduWmRNNDJpWF9qTmFqczhkXzBkc3JVMUVkYkhhVlN6R0FHdktwVEtzVW5Ub2ltM1JzMXpnSG5DNU9kb1k0UzRSMS1rdjlIVko0X29FOWxtbG9HMlVTMktndWJpWXB5UWVkMllXVzRMZEN4aTlaSmxEZHR6R0l5eGRxSTc5bjA1cHV2cHZaYkFuWXphcXBQNzZGWFhDd2x6OU9WV0duMWpDakppdHBTbzJqSUZwNWF0VjQxeEF4Mm9yYWtYSGt3RU8wbEZNZw?oc=5)",
+    "[fortune.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGg3S1dGbGY1QzdwamNDSm9jaFNFU3NVVFhzV3A5Yk1VQUpNalFmUFlCcWpIY09jaWdRbGJQRDhtQTlKWXhKalh1aFlRNUdJWlBSWENRaUJnQ2NRUzR6eHU3WElkd0JuV2EzWDNzWkRqQmY0TzJrVUhmLVVacW1mYUhR?oc=5)",
+    "[businessinsider.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlJZDVxMUlzcWZSV3JMMTM3STZWeU5SOE5NbU5QYnFWNmlFX256VWFXVEt3WUhDbExvb1AzQWpRSFZMRVJFT3NSVGdMQ1A1bnZYUW9STDY3NlBVUF9kak9ra1JpcUlfb21jVnBEV3lEVHlTR2pwS181aElMbFg1RjU5SGI5bUtyMXdvbV8yZjlrbEJZQzFVNm1Wbw?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.4; aida_pass=true; bento_dense=true; label_sweep=ok; button_contrast=ok",
+  "generated_at": "2026-07-03T21:27:35.143731+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and confirm in one flow",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "An indexable use\u2011case page showing how Super helps people book rides with AI: comparing ETAs, checking prices, coordinating pickups, and reusing preferences via a computer-use cache. Designed for people who want a personal AI agent that actually operates ride apps and browsers \u2014 with confirmation before booking."
+}
